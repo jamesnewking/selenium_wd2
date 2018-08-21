@@ -1,0 +1,95 @@
+1534809456910	geckodriver	INFO	geckodriver 0.20.0
+1534809456931	geckodriver	INFO	Listening on 127.0.0.1:61934
+1534809459948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.mUjBOS93XWGY"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809461617	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 1192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 11921534809505594	geckodriver	INFO	geckodriver 0.20.0
+1534809505603	geckodriver	INFO	Listening on 127.0.0.1:61989
+1534809508619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.2ZmXtJYHeVsb"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809509596	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11752] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 11752] W1534809538682	geckodriver	INFO	geckodriver 0.20.0
+1534809538692	geckodriver	INFO	Listening on 127.0.0.1:62171
+1534809541724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.PlKaEBzEEeCn"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809542711	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 111534809695012	geckodriver	INFO	geckodriver 0.20.0
+1534809695023	geckodriver	INFO	Listening on 127.0.0.1:62498
+1534809698034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.0IeAHLDXrc3L"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809699051	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809992917	geckodriver	INFO	geckodriver 0.20.0
+1534809992927	geckodriver	INFO	Listening on 127.0.0.1:62844
+1534809995947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.3kKJEzNKifCU"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534809997050	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Parent 12984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1534812507907	geckodriver	INFO	geckodriver 0.20.0
+1534812507916	geckodriver	INFO	Listening on 127.0.0.1:64666
+1534812510927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.GIZ2NG06ZXUd"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534812512069	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 11288] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 112881534813044585	geckodriver	INFO	geckodriver 0.21.0
+1534813044595	geckodriver	INFO	Listening on 127.0.0.1:64825
+1534813048015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.KoLr7dlzLHCZ"
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+1534813049120	Marionette	INFO	Listening on port 2828
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+[Child 10636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10636] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-01534813678402	geckodriver	INFO	geckodriver 0.21.0
+1534813678412	geckodriver	INFO	Listening on 127.0.0.1:65275
+1534813681419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.wcT42NSn7VgC"
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+1534813681994	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+1534813683710	Marionette	INFO	Listening on port 65283
+1534813684142	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8032, Ch[Parent 12256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 936, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1534813885698	geckodriver	INFO	geckodriver 0.21.0
+1534813885711	geckodriver	INFO	Listening on 127.0.0.1:49164
+1534813888714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox52esr\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\james\\AppData\\Local\\Temp\\rust_mozprofile.54XDPRARf3Rp"
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+1534813889514	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1534813891758	Marionette	INFO	Listening on port 49172
+Unable to read VR Path Registry from C:\Users\james\AppData\Local\openvr\openvrpaths.vrpath
+1534813891972	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8428, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
