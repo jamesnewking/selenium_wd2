@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
 import time
 
 class JamesPortfolio():
@@ -12,13 +13,27 @@ class JamesPortfolio():
         pageTitle = driver.title
         print('Title of the webpage is: ' + pageTitle)
         moreButton = driver.find_element(By.XPATH,"//body[@id='page-top']//a[text()='Tell Me More']")
+        navTech = driver.find_element(By.XPATH,"//div[@id='navbarResponsive']//li/a[text()='Technologies']")
+        navPortfolio = driver.find_element(By.XPATH, "//div[@id='navbarResponsive']//li/a[text()='Portfolio']")
+        navAbout = driver.find_element(By.XPATH, "//div[@id='navbarResponsive']//li/a[text()='About']")
+        navContact = driver.find_element(By.XPATH, "//div[@id='navbarResponsive']//li/a[text()='Contact']")
+
         cname = driver.find_element(By.ID,"name")
         cemail = driver.find_element(By.ID,"email")
         cphone = driver.find_element(By.ID,"phone")
         cmessage = driver.find_element(By.ID, "message")
         cbutton = driver.find_element(By.ID,"sendMessageButton")
+
         moreButton.click()
-        time.sleep(2)
+        time.sleep(1)
+        navTech.click()
+        time.sleep(1)
+        navPortfolio.click()
+        time.sleep(1)
+        navAbout.click()
+        time.sleep(1)
+        navContact.click()
+        time.sleep(1)
         cname.send_keys("James")
         cbutton.click()
         time.sleep(2)
@@ -27,7 +42,10 @@ class JamesPortfolio():
         time.sleep(2)
         cphone.send_keys("9495551212")
         cbutton.click()
-        time.sleep(1)
+        cname.clear()
+        cemail.clear()
+        cphone.clear()
+        time.sleep(2)
 
         #self.snackPortfolio()
         snackPort = driver.find_element(By.XPATH, "//section[@id='portfolio']//a[@href='#portfolioModal1']")
