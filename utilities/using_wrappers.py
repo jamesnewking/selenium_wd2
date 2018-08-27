@@ -18,7 +18,18 @@ class UsingWrappers():
         time.sleep(2)
         textField2 = hw.getElement("//input[@id='name']", locatorType="xpath")
         textField2.clear()
+        time.sleep(2)
+
+        eleResult1 = hw.isElementPresent("name", By.ID)
+        print('Check if element "name" exists ' + str(eleResult1))
+
+        eleResult2 = hw.elementPresenceCheck("//input[@id='name']", By.XPATH)
+        print('Check if element "name" exists again ' + str(eleResult2))
+
+        driver.quit()
+        print('closed tests')
 
 ff = UsingWrappers()
 ff.test()
+
 
