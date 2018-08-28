@@ -25,6 +25,7 @@ class ExplicitWaitDemo():
         # driver.find_element(By.ID, "flight-returning-flp").click()
         # driver.find_element(By.ID, "//div[@id='package-returning-wrapper-hp-package']/div[@class='datepicker-dropdown']/div/div[3]/table[@class='datepicker-cal-weeks']/tbody/tr[5]/td[3]/button[@type='button']").click()
         # driver.find_element(By.XPATH,'//div[@id="package-returning-wrapper-flp"]/div/div/div[3]/table/tbody/tr[5]/td[3]/button').click()
+        # //section[@class='cal-month][position()=2]//a[text()='25']
         driver.find_element(By.CSS_SELECTOR, "button.btn-primary.btn-action.gcw-submit").click()
 
         wait = WebDriverWait(driver, 10, poll_frequency=1,
